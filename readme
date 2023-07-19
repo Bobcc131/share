@@ -1,0 +1,7 @@
+echo“#share”>>README.md 
+git init 
+git add README.md 
+git commit -m“第一次提交” 
+git分支-M main 
+git远程添加原点https://github.com/Bobcc131/share.git
+ git push -u origin main
